@@ -1,2 +1,2 @@
 # TestGitGub
-Just to learn GitHub
+This branch is just for the html publishing

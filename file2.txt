@@ -1,6 +1,0 @@
--=Header=-
-
-record 1
-
--=Footer=-
-
